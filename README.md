@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @Jado
-- 🌱 I’m currently learning reactJS
-- 💞️ I’m ready to collaborate with the other peers
-- 📫 Reach out 📩[jeadynzaramyimana@gmail.com ](mailto:jeadynzaramyimana@gmail.com)
-- 👉 [Portfolio](https://jado.vercel.app/)
-<br><br>
-- Socials  [![icons8-linkedin-circled](https://user-images.githubusercontent.com/81268636/199939592-c95c257d-3e4e-488f-8294-bc34595634eb.svg)](https://www.linkedin.com/in/jado1/) [![icons8-twitter](https://user-images.githubusercontent.com/81268636/199948119-c840f014-7316-4083-addf-dc1b2f500b6c.svg)
-](https://twitter.com/DeJeady)    
+👋 Hi, I’m @Jado <br>
+🌱 I’m currently learning reactJS<br>
+💞️ I’m ready to collaborate with the other peers<br>
+📫 Reach out 📩[jeadynzaramyimana@gmail.com ](mailto:jeadynzaramyimana@gmail.com)<br>
+👉 [Portfolio](https://jado.vercel.app/)<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jado-jeady&show_icons=true&theme=dark&hide=issues&show=prs_merged,prs_merged_percentage&include_all_commits=true)
 <br><br>
